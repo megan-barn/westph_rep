@@ -1,5 +1,5 @@
 # westph_rep
-We are testing global environmental trends against instances of state failure between the years 1982 and 2023. One-hundered and sixty-eight states were coded as failed (1) or not failed (0) based on scoring system derived from the Bertelsmung-Stiftlung's Transformation Index, Human Development Index, ___taxation source___, and ____drinking water source___. 
+We are testing global environmental trends against instances of state failure between the years 1982 and 2023. One-hundered and sixty-eight states were coded as failed (1) or not failed (0) based on scoring system derived from the Bertelsmung-Stiftlung's Transformation Index, Human Development Index, ___taxation source___, and ___drinking water source___. 
 
 The five predictor variables are:
 > T_SUM: Mean departure from baseline (1960-1980) growing season temperature over historically agriculturally productive land areas.
