@@ -12,7 +12,9 @@ The five predictor variables are:
 
 > C_WET: Frequency of 'wet' years (SPEI > 1.5) in and around densely populated urban areas.
 
-See final_standardized_data.csv for the data that was used in our logistic regression.
+The CSV files named {predictor}_zonalstats.csv show the data for each variable as it was extracted from ArcGIS using Zonal Statistics. 
+
+See final_standardized_data.csv for the data that was used in our logistic regression, and log_regression_apsa.R for the R code.
 
 We expect above average growing season temperatures, decreases in vegetation density, increases in winter temperature, and high incidence of statewide drought and 'wet' urban conditions will correlate with state failure (1) due to our theory that famine and disease are hallmarks of historical failure events that are being exacerbated by climate change.
 
